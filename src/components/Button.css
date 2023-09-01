@@ -1,0 +1,22 @@
+input {
+    width: 71px;
+    height: 71px;
+    border-radius: 20px;
+    border: none;
+    background-color: #E97550;
+    box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.3) inset,
+  -2px -2px 5px 0px rgba(255,255,255,0.2) inset;
+    font-family: 'Kanit', sans-serif;
+    font-size: 24px;
+}
+  
+input:focus {
+    box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.5) inset,
+  -2px -2px 5px 0px rgba(255,255,255,0.1) inset;
+}
+  
+.number {
+    background-color: transparent;
+    color: #fafafa;
+    
+}

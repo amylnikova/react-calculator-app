@@ -1,0 +1,7 @@
+.keyboard {
+    width: 300px;
+    margin-bottom: 30px;
+    display: grid;
+    grid-template: 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
+    gap: 5px;
+  }

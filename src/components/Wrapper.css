@@ -1,0 +1,22 @@
+.calc_color_bg {
+    width: 321px;
+    height: 640px;
+    background-color: #2b2b2b;
+    border-radius: 43px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .calc_container {
+    width: 346px;
+    height: 650px;
+    background: url(../img/calculator-bg.png);
+    background-size: 100% 100%;
+    margin: 1px -9px 1px -13px;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }

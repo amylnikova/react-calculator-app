@@ -1,0 +1,21 @@
+.output {
+    padding-right: 5px;
+    margin-bottom: 15px;
+    text-align: end;
+  }
+  
+  .result {
+    color: #fafafa;
+    font-size: 56px;
+    line-height: 1.2;
+  }
+
+  .result.long {
+    font-size: 52px;
+  }
+  
+  .input {
+    color: #7c7c7c;
+    font-size: 20px;
+    line-height: 1.4;
+  }

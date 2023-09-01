@@ -1,3 +1,44 @@
+# React calculator
+
+Simple web-based calculator built with React to perform basic arithmetic operations
+
+![react-calculator](react-calculator.gif)
+
+# Built with
+
+- HTML
+- CSS 
+  - Modules
+- Java Script
+  - Modules
+  - Event listeners
+  - Array loops & methods
+  - RegExp
+  - Ternary expressions
+- React
+  - JSX
+  - React components
+  - React Hooks (useState, useEffect)
+  - bootstrapped with Create React App
+
+# Live demo
+
+
+
+# 👤 Author
+
+- Github: [amylnikova](https://github.com/amylnikova)
+- LinkedIn: [Anastasiia Mylnikova](www.linkedin.com/in/anastasiia-mylnikova)
+
+
+# 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+# License
+
+MIT licensed
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
