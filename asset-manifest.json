@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amylnikova/react-calculator-app.git/static/css/main.a52745fe.css",
+    "main.js": "/amylnikova/react-calculator-app.git/static/js/main.47808bd6.js",
+    "static/js/787.b8c1c7ea.chunk.js": "/amylnikova/react-calculator-app.git/static/js/787.b8c1c7ea.chunk.js",
+    "static/media/calculator-bg.png": "/amylnikova/react-calculator-app.git/static/media/calculator-bg.d2b8a2fcd3b5862f9d51.png",
+    "index.html": "/amylnikova/react-calculator-app.git/index.html",
+    "main.a52745fe.css.map": "/amylnikova/react-calculator-app.git/static/css/main.a52745fe.css.map",
+    "main.47808bd6.js.map": "/amylnikova/react-calculator-app.git/static/js/main.47808bd6.js.map",
+    "787.b8c1c7ea.chunk.js.map": "/amylnikova/react-calculator-app.git/static/js/787.b8c1c7ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a52745fe.css",
+    "static/js/main.47808bd6.js"
+  ]
+}
