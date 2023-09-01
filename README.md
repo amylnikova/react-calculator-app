@@ -23,7 +23,7 @@ Simple web-based calculator built with React to perform basic arithmetic operati
 
 # Live demo
 
-
+[https://amylnikova.github.io/react-calculator-app/](https://amylnikova.github.io/react-calculator-app/)
 
 # 👤 Author
 
