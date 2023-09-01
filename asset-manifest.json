@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/amylnikova/react-calculator-app.git/static/css/main.a52745fe.css",
-    "main.js": "/amylnikova/react-calculator-app.git/static/js/main.47808bd6.js",
-    "static/js/787.b8c1c7ea.chunk.js": "/amylnikova/react-calculator-app.git/static/js/787.b8c1c7ea.chunk.js",
-    "static/media/calculator-bg.png": "/amylnikova/react-calculator-app.git/static/media/calculator-bg.d2b8a2fcd3b5862f9d51.png",
-    "index.html": "/amylnikova/react-calculator-app.git/index.html",
-    "main.a52745fe.css.map": "/amylnikova/react-calculator-app.git/static/css/main.a52745fe.css.map",
-    "main.47808bd6.js.map": "/amylnikova/react-calculator-app.git/static/js/main.47808bd6.js.map",
-    "787.b8c1c7ea.chunk.js.map": "/amylnikova/react-calculator-app.git/static/js/787.b8c1c7ea.chunk.js.map"
+    "main.css": "/react-calculator-app/static/css/main.b356aff8.css",
+    "main.js": "/react-calculator-app/static/js/main.f1b71351.js",
+    "static/js/787.b8c1c7ea.chunk.js": "/react-calculator-app/static/js/787.b8c1c7ea.chunk.js",
+    "static/media/calculator-bg.png": "/react-calculator-app/static/media/calculator-bg.d2b8a2fcd3b5862f9d51.png",
+    "index.html": "/react-calculator-app/index.html",
+    "main.b356aff8.css.map": "/react-calculator-app/static/css/main.b356aff8.css.map",
+    "main.f1b71351.js.map": "/react-calculator-app/static/js/main.f1b71351.js.map",
+    "787.b8c1c7ea.chunk.js.map": "/react-calculator-app/static/js/787.b8c1c7ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a52745fe.css",
-    "static/js/main.47808bd6.js"
+    "static/css/main.b356aff8.css",
+    "static/js/main.f1b71351.js"
   ]
 }
